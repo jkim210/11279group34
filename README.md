@@ -1,4 +1,4 @@
-# 11279group34 says hello
+# 11279group34
 
 Member1: Justin Kim
 Member2: Natalie Heywood
