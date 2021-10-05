@@ -6,7 +6,7 @@ Member3: Caroline Rogers
 Member4: Josh Ngoboc 
 
 ## Running Demo
-The demo's requirements are listed in `requirements.txt`, primarily:
+The demo's requirements are listed in `demo/requirements.txt`, primarily:
 
 - geopandas==0.10.0
 - matplotlib==3.4.3
@@ -16,7 +16,7 @@ The demo's requirements are listed in `requirements.txt`, primarily:
 **RECOMMENDED:**  Create a [python virtual environment](https://docs.python.org/3/tutorial/venv.html) before installing packages
 
 ### Linux/MacOX
-1. Run `pip install -r requirements.txt`
+1. Run `pip install -r demo/requirements.txt`
 2. From the parent directory, `11279group34`, run `python demo/demo.py`
 3. File `demo/foliumMap.html` should be created, open in any browser
 
