@@ -1,0 +1,4 @@
+geopandas==0.10.0
+matplotlib==3.4.3
+folium==0.12.1
+mapclassify==2.4.3
